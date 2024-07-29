@@ -35,3 +35,4 @@
 
 
 문의 및 기타 오류 사항은 깃헙 이슈로 ㄱㄱ
+if u r in a problem, open github 'issues'

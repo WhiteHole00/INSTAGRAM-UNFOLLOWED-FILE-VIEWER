@@ -36,7 +36,7 @@ def main():
         else:
             return input(f"'{PATH}' 파일이 존재 하지 않습니다.")
     except Exception as e:
-        return input(f"{PATH} 값은 비어 있으면 안됩니다.")
+        return input(f"{PATH} 값은 공백이거나 파일이름이 아니면 안됩니다.")
 
 
 if __name__ == "__main__":

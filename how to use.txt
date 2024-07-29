@@ -4,6 +4,8 @@
 그건 기록에 남습니다.
 
 ***setting.py에 파일 경로 적어주세요.***
+***please write the file path in 'setting.py'***
+
 
 #파일 얻는 방법
 
